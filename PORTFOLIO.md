@@ -1,4 +1,4 @@
-# Crumb & Code project portfolio
+# Bakery Management System project portfolio
 
 This repository now includes a responsive, static case study at `portfolio/index.html`.
 
